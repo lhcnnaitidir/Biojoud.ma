@@ -1,0 +1,1598 @@
+[
+  {
+    "name": "ALGAVITAL",
+    "cat": "Biostimulation",
+    "sub": "Biostimulant à base d’algues",
+    "desc": "Extrait d’algue marine Ascophyllum nodosum, pour accompagner la croissance et le développement des cultures.",
+    "size": "20 L",
+    "img": "assets/uniform-label-0.webp",
+    "pdf": "assets/fiche-0.pdf",
+    "label": "assets/label-clean-algavital.webp",
+    "composition": [
+      [
+        "Extrait d’Ascophyllum nodosum",
+        "≥ 30 %"
+      ],
+      [
+        "Acide alginique",
+        "≥ 3 %"
+      ],
+      [
+        "Mannitol",
+        "≥ 1 %"
+      ],
+      [
+        "Carbone organique total",
+        "≥ 9,5 %"
+      ],
+      [
+        "Matière organique",
+        "≥ 12 %"
+      ]
+    ],
+    "benefits": [
+      "Accompagne la croissance végétative et le développement racinaire.",
+      "Contribue à la disponibilité des nutriments et à la rétention d’eau du sol.",
+      "Soutient la floraison et la nouaison."
+    ],
+    "uses": [
+      [
+        "Goutte-à-goutte",
+        "5 à 10 L / hectare",
+        "Diluer dans l’eau d’irrigation. 1 à 2 applications par cycle, selon les besoins."
+      ]
+    ],
+    "cultures": "Arboriculture, maraîchage, céréales, légumineuses, agrumes, vigne et cultures ornementales.",
+    "physical": "pH : 8,0–10,0 · Densité à 20 °C : 1,10–1,25 · Solubilité : ≥ 97 %.",
+    "storage": "Conserver à l’abri de la lumière et de la chaleur. Refermer après utilisation.",
+    "compatibility": "Compatible avec la majorité des engrais et produits phytosanitaires, selon l’étiquette. Faire un essai préalable en cas de doute.",
+    "front": "assets/front-clean-algavital.webp",
+    "package": "can",
+    "state": "Formulation liquide",
+    "basis": "Algues marines — Ascophyllum nodosum",
+    "basisDetail": "Une base d’extrait d’algue brune, associée à l’acide alginique, au mannitol et à la matière organique indiqués sur l’étiquette. Le produit est présenté comme un biostimulant pour le sol et la plante.",
+    "slug": "algavital",
+    "id": 0,
+    "focus": "Algues marines — Ascophyllum nodosum",
+    "extra": "",
+    "new": false,
+    "packshot": "assets/packshots-original/algavital.webp"
+  },
+  {
+    "name": "HUMIC PRO",
+    "cat": "Nutrition du sol",
+    "sub": "Amendement organique liquide",
+    "desc": "Une formulation à base de matières humiques pour la structure du sol et la vie microbienne.",
+    "size": "20 L",
+    "img": "assets/label-humic-pro.webp",
+    "pdf": "assets/humic-pro.pdf",
+    "label": "assets/label-clean-humic-pro.webp",
+    "composition": [
+      [
+        "Matières humiques totales",
+        "20 %"
+      ],
+      [
+        "Acides humiques",
+        "14 %"
+      ],
+      [
+        "Acides fulviques",
+        "6 %"
+      ],
+      [
+        "Matière organique totale",
+        "≥ 25 %"
+      ],
+      [
+        "Carbone organique",
+        "12 %"
+      ],
+      [
+        "Potassium (K₂O)",
+        "2 %"
+      ]
+    ],
+    "benefits": [
+      "Améliore la structure et la fertilité du sol.",
+      "Favorise le développement racinaire et la vie microbienne.",
+      "Contribue à la rétention d’eau et à l’assimilation des nutriments."
+    ],
+    "uses": [
+      [
+        "Application au sol",
+        "5 à 20 L / ha",
+        "Selon la culture, le sol et le stade de développement. Renouveler toutes les 2 à 4 semaines."
+      ],
+      [
+        "Application foliaire",
+        "2 à 5 L / ha",
+        "L’étiquette indique également 200 à 500 ml / 100 L d’eau. Appliquer le matin ou en fin de journée."
+      ],
+      [
+        "Fertigation",
+        "5 à 15 L / ha",
+        "Ajuster selon la culture et les besoins."
+      ]
+    ],
+    "cultures": "Grandes cultures, maraîchage, arboriculture, viticulture, plantes ornementales, gazon, cultures sous serre et systèmes hydroponiques.",
+    "physical": "pH du produit pur : 8,0–9,0 · Densité à 20 °C : 1,15 ± 0,05.",
+    "storage": "Endroit sec et frais, à l’abri de la lumière. Température : 5–30 °C. Conservation annoncée : 24 mois dans les conditions recommandées.",
+    "compatibility": "Complexe d’origine végétale et marine enrichi en micro-organismes bénéfiques. Vérifier chaque mélange avec BIOJOUD.",
+    "front": "assets/front-clean-humic-pro.webp",
+    "package": "can",
+    "state": "Formulation liquide",
+    "basis": "Acides humiques et fulviques",
+    "basisDetail": "La formulation associe 20 % de matières humiques totales, dont 14 % d’acides humiques et 6 % d’acides fulviques. Elle contient aussi du carbone organique et du potassium.",
+    "slug": "humic-pro",
+    "id": 1,
+    "focus": "Acides humiques et fulviques",
+    "extra": "",
+    "new": false,
+    "packshot": "assets/packshots-original/humic-pro.webp"
+  },
+  {
+    "name": "ARX BIO-CaB",
+    "cat": "Nutrition végétale",
+    "sub": "Complexe calcium-bore biochélaté",
+    "desc": "Une association de calcium, de bore et de technologie microbienne pour la nutrition des plantes.",
+    "size": "20 L",
+    "img": "assets/uniform-label-2.webp",
+    "pdf": "assets/fiche-2.pdf",
+    "label": "assets/label-clean-arx-bio-cab.webp",
+    "composition": [
+      [
+        "Éléments nutritifs",
+        "Calcium et bore chélatés"
+      ],
+      [
+        "Complexe associé",
+        "Micro-organismes bénéfiques"
+      ],
+      [
+        "Formulation",
+        "Solution nutritive concentrée"
+      ]
+    ],
+    "benefits": [
+      "Contribue au renforcement des parois cellulaires.",
+      "Accompagne la nouaison et le grossissement des fruits.",
+      "Soutient la qualité et la conservation des récoltes."
+    ],
+    "uses": [
+      [
+        "Application foliaire",
+        "2 à 3 L / ha / passage",
+        "Dilution pratique indiquée : 1 L pour 200 L d’eau. Appliquer tôt le matin ou en fin d’après-midi."
+      ],
+      [
+        "Fertigation",
+        "5 à 10 L / ha / apport",
+        "Injecter pendant le dernier tiers de l’arrosage. Rincer le réseau à l’eau claire pendant 10 à 15 minutes."
+      ]
+    ],
+    "cultures": "Céréales, légumes, fruitiers, agrumes, vigne, olivier, cultures industrielles, plantes aromatiques et ornementales.",
+    "physical": "Liquide incolore à légèrement ambré · pH (solution à 1 %) : 6,5–7,5 · Densité : 1,20 ± 0,05 · 100 % miscible dans l’eau.",
+    "storage": "Conserver dans l’emballage d’origine fermé, dans un endroit frais et sec, à l’abri du soleil. Consulter l’étiquette pour les conditions complètes.",
+    "compatibility": "Ne pas associer aux huiles minérales, au soufre ou aux produits très alcalins. Faire un test préalable en cas de doute.",
+    "front": "assets/front-clean-arx-bio-cab.webp",
+    "package": "can",
+    "state": "Formulation liquide",
+    "basis": "Calcium, bore et complexe microbien",
+    "basisDetail": "Une solution nutritive concentrée associant calcium et bore chélatés à des micro-organismes bénéfiques. Les deux éléments sont présentés sur l’étiquette pour accompagner la structure des tissus et le développement des fruits.",
+    "slug": "arx-bio-cab",
+    "id": 2,
+    "focus": "Calcium, bore et complexe microbien",
+    "extra": "",
+    "new": false,
+    "packshot": "assets/packshots-original/arx-bio-cab.webp"
+  },
+  {
+    "name": "MAGVITAL",
+    "cat": "Nutrition végétale",
+    "sub": "Nutrition minérale & complexe microbien",
+    "desc": "Magnésium et complexe microbien naturel pour accompagner la nutrition et le développement végétal.",
+    "size": "20 L",
+    "img": "assets/label-magvital.webp",
+    "pdf": "assets/magvital.pdf",
+    "label": "assets/label-clean-magvital.webp",
+    "composition": [
+      [
+        "Magnésium soluble (MgO)",
+        "10 % p/v · 100 g/L"
+      ],
+      [
+        "Azote total",
+        "0 %"
+      ],
+      [
+        "Matières organiques",
+        "5 % p/v"
+      ],
+      [
+        "Carbone organique",
+        "3 % p/v"
+      ],
+      [
+        "Extrait de plantes",
+        "15 % p/v"
+      ]
+    ],
+    "benefits": [
+      "Apporte du magnésium assimilable.",
+      "Accompagne la photosynthèse et la production de chlorophylle.",
+      "Soutient la rhizosphère grâce au complexe microbien naturel."
+    ],
+    "uses": [
+      [
+        "Application foliaire",
+        "2 à 4 L / ha",
+        "L’étiquette indique également 200 à 400 ml / 100 L d’eau. Renouveler toutes les 10 à 15 jours."
+      ],
+      [
+        "Fertigation",
+        "5 à 10 L / ha",
+        "Selon la culture et le stade de développement. Agiter avant emploi."
+      ]
+    ],
+    "cultures": "Maraîchage, viticulture, arboriculture, fruits rouges, céréales, cultures légumières et plantes ornementales.",
+    "physical": "Solution liquide · pH : 4,0–5,5 · Densité à 20 °C : 1,20 ± 0,05.",
+    "storage": "Endroit sec et frais, à l’abri de la lumière directe, entre 5 et 30 °C. Conservation annoncée : 24 mois.",
+    "compatibility": "Peut s’intégrer à des programmes de nutrition et de biostimulation. Vérifier la compatibilité avant tout mélange.",
+    "front": "assets/front-clean-magvital.webp",
+    "package": "can",
+    "state": "Formulation liquide",
+    "basis": "Magnésium, extraits de plantes et micro-organismes",
+    "basisDetail": "Le magnésium soluble est annoncé à 10 % p/v, soit 100 g/L. Il est associé à des extraits de plantes, à de la matière organique et à un complexe microbien naturel. La formulation ne contient pas d’azote selon l’analyse fournie.",
+    "slug": "magvital",
+    "id": 3,
+    "focus": "Magnésium, extraits de plantes et micro-organismes",
+    "extra": "",
+    "new": false,
+    "packshot": "assets/packshots-original/magvital.webp"
+  },
+  {
+    "name": "KAOLINOVA",
+    "cat": "Protection des cultures",
+    "sub": "Kaolin naturel de haute pureté",
+    "desc": "Une poudre minérale à base de kaolin pour former une barrière physique sur les feuilles et les fruits.",
+    "size": "10 kg",
+    "img": "assets/uniform-label-4.webp",
+    "pdf": "assets/fiche-4.pdf",
+    "label": "assets/label-clean-kaolinova.webp",
+    "composition": [
+      [
+        "Kaolin naturel pur (kaolinite)",
+        "> 95 %"
+      ],
+      [
+        "Formulation",
+        "Poudre mouillable (WP)"
+      ],
+      [
+        "Granulométrie",
+        "≤ 20 microns"
+      ]
+    ],
+    "benefits": [
+      "Forme une barrière physique sur les feuilles et les fruits.",
+      "Réfléchit le rayonnement solaire et limite le stress thermique.",
+      "Contribue à la protection physique des cultures."
+    ],
+    "uses": [
+      [
+        "Application foliaire",
+        "3 à 5 kg / 100 L d’eau",
+        "Soit 30 à 50 g/L. Agiter avant et pendant l’application. Couvrir uniformément les feuilles et les fruits."
+      ],
+      [
+        "Fréquence",
+        "Tous les 10 à 15 jours",
+        "Dès le début du développement végétatif. Renouveler après une pluie importante."
+      ]
+    ],
+    "cultures": "Vigne, olivier, arbres fruitiers, maraîchage, céréales, agrumes et plantes ornementales.",
+    "physical": "Poudre fine blanche, inodore · pH (suspension à 5 %) : 6,0–8,0 · Densité apparente : 0,4–0,6 g/cm³ · Insoluble dans l’eau.",
+    "storage": "Conserver au sec, à l’abri de l’humidité, entre 5 et 30 °C. Conservation annoncée : 24 mois.",
+    "compatibility": "Ne pas mélanger avec des produits acides. Porter un masque et des gants ; éviter l’inhalation prolongée de poussière.",
+    "front": "assets/front-clean-kaolinova.webp",
+    "package": "bag",
+    "state": "Poudre mouillable",
+    "basis": "Kaolin naturel — kaolinite",
+    "basisDetail": "Un produit minéral sous forme de poudre mouillable, à base de kaolin naturel pur à plus de 95 %. Les particules, de granulométrie inférieure ou égale à 20 microns, forment une suspension dans l’eau pour l’application foliaire.",
+    "slug": "kaolinova",
+    "id": 4,
+    "focus": "Kaolin naturel — kaolinite",
+    "extra": "",
+    "new": false,
+    "packshot": "assets/packshots-original/kaolinova.webp"
+  },
+  {
+    "name": "K-FLEX",
+    "cat": "Protection des cultures",
+    "sub": "Savon potassique agricole",
+    "desc": "Une solution de contact à base de sels potassiques d’acides gras d’origine végétale.",
+    "size": "20 L",
+    "img": "assets/label-k-flex.webp",
+    "pdf": "assets/k-flex.pdf",
+    "label": "assets/label-clean-k-flex.webp",
+    "composition": [
+      [
+        "Matière active : savon potassique",
+        "≥ 48 %"
+      ],
+      [
+        "Potassium (K₂O)",
+        "≥ 7 %"
+      ],
+      [
+        "Matière organique",
+        "≥ 15 %"
+      ],
+      [
+        "Origine",
+        "Sels potassiques d’acides gras végétaux"
+      ]
+    ],
+    "benefits": [
+      "Nettoie la surface des feuilles : poussières, miellats et saletés.",
+      "Réduit la tension superficielle de l’eau.",
+      "Améliore l’étalement et la couverture des applications foliaires."
+    ],
+    "uses": [
+      [
+        "Pulvérisation foliaire",
+        "1 à 2 %",
+        "Soit 1 à 2 L pour 100 L d’eau. Agiter, diluer puis pulvériser tôt le matin ou en fin de journée."
+      ]
+    ],
+    "cultures": "Arboriculture, maraîchage, céréales, légumineuses, agrumes, vigne et cultures ornementales.",
+    "physical": "Liquide ambré · pH (solution à 1 %) : 9,0–11,0 · Densité à 20 °C : 1,02–1,07.",
+    "storage": "Conserver à l’abri du gel et de la chaleur. Refermer soigneusement après utilisation.",
+    "compatibility": "Compatible avec la plupart des produits phytosanitaires selon l’étiquette. Éviter les fortes chaleurs lors de l’application.",
+    "front": "assets/front-clean-k-flex.webp",
+    "package": "can",
+    "state": "Formulation liquide",
+    "basis": "Sels potassiques d’acides gras végétaux",
+    "basisDetail": "Le savon potassique constitue la matière active, annoncée à au moins 48 %. Les sels potassiques proviennent d’acides gras d’origine végétale. La formule est destinée au nettoyage et à l’amélioration du mouillage des feuilles.",
+    "slug": "k-flex",
+    "id": 5,
+    "focus": "Sels potassiques d’acides gras végétaux",
+    "extra": "",
+    "new": false,
+    "packshot": "assets/packshots-original/k-flex.webp"
+  },
+  {
+    "name": "SULFURIS",
+    "cat": "Protection des cultures",
+    "sub": "Polysulfure de calcium",
+    "desc": "Une solution soufrée agricole liquide pour la protection et la nutrition soufrée des cultures.",
+    "size": "20 L",
+    "img": "assets/uniform-label-6.webp",
+    "pdf": "assets/fiche-6.pdf",
+    "label": "assets/label-clean-sulfuris.webp",
+    "composition": [
+      [
+        "Polysulfures (S)",
+        "≥ 20 %"
+      ],
+      [
+        "Soufre total (S)",
+        "≥ 30 %"
+      ],
+      [
+        "Chaux (CaO)",
+        "≥ 5 %"
+      ],
+      [
+        "Matière sèche / TDS",
+        "≥ 10 %"
+      ]
+    ],
+    "benefits": [
+      "Apporte du soufre pour la nutrition des cultures.",
+      "Accompagne les défenses naturelles des plantes.",
+      "Solution agricole liquide issue du soufre et de la chaux."
+    ],
+    "uses": [
+      [
+        "Pulvérisation foliaire",
+        "1 L / 100 L d’eau",
+        "Bien mélanger. Appliquer tôt le matin ou en fin de journée. 1 à 2 applications par cycle selon les besoins."
+      ]
+    ],
+    "cultures": "Arboriculture, maraîchage, céréales, légumineuses, agrumes, vigne et cultures ornementales.",
+    "physical": "Solution liquide · pH : 10,0–12,5 · Densité à 20 °C : 1,20–1,30.",
+    "storage": "À l’abri de la lumière et de la chaleur. Bien refermer après utilisation.",
+    "compatibility": "L’étiquette recommande un test préalable en cas de doute sur un mélange. Vérifier la compatibilité auprès de BIOJOUD.",
+    "front": "assets/front-clean-sulfuris.webp",
+    "package": "can",
+    "state": "Formulation liquide",
+    "basis": "Soufre et chaux — polysulfure de calcium",
+    "basisDetail": "Une solution liquide de polysulfure de calcium issue de la réaction du soufre et de la chaux. Le document indique notamment au moins 30 % de soufre total et au moins 5 % de chaux (CaO).",
+    "slug": "sulfuris",
+    "id": 6,
+    "focus": "Soufre et chaux — polysulfure de calcium",
+    "extra": "",
+    "new": false,
+    "packshot": "assets/packshots-original/sulfuris.webp"
+  },
+  {
+    "name": "NANO COP",
+    "cat": "Nutrition végétale",
+    "sub": "Cuivre nanochélaté",
+    "desc": "Une formulation liquide à base de cuivre nanochélaté destinée à la nutrition des cultures.",
+    "size": "20 L",
+    "img": "assets/label-nano-cop.webp",
+    "pdf": "assets/nano-cop.pdf",
+    "label": "assets/label-clean-nano-cop.webp",
+    "composition": [
+      [
+        "Cuivre soluble dans l’eau",
+        "6 %"
+      ],
+      [
+        "Cuivre chélaté par acides aminés",
+        "6 %"
+      ],
+      [
+        "Extrait humique",
+        "2 %"
+      ],
+      [
+        "Formulation",
+        "Solution nutritive concentrée"
+      ]
+    ],
+    "benefits": [
+      "Apporte du cuivre sous une formulation nanochélatée.",
+      "Participe à la photosynthèse et au métabolisme des plantes.",
+      "Accompagne la qualité et la conservation des récoltes."
+    ],
+    "uses": [
+      [
+        "Application foliaire",
+        "2 à 3 L / ha / passage",
+        "Dilution pratique : 1 L pour 200 L d’eau. Appliquer tôt le matin ou en fin d’après-midi."
+      ],
+      [
+        "Fertigation",
+        "3 à 6 L / ha / apport",
+        "Injecter pendant le dernier tiers de l’arrosage, puis rincer le réseau pendant 10 à 15 minutes."
+      ]
+    ],
+    "cultures": "Céréales, légumes, fruitiers, agrumes, vigne, olivier, plantes aromatiques, cultures industrielles et ornementales.",
+    "physical": "Liquide bleu-vert, inodore · pH (solution à 1 %) : 6,0–7,5 · Densité : 1,15 ± 0,05 · 100 % miscible dans l’eau.",
+    "storage": "Emballage d’origine fermé, endroit frais et sec, à l’abri du soleil, entre 5 et 35 °C. Conservation annoncée : 24 mois.",
+    "compatibility": "Ne pas associer aux huiles minérales, au soufre ou aux produits très alcalins. Faire un test préalable.",
+    "front": "assets/front-clean-nano-cop.webp",
+    "package": "can",
+    "state": "Formulation liquide",
+    "basis": "Cuivre chélaté, acides aminés et extrait humique",
+    "basisDetail": "La solution associe du cuivre à des agents chélatants naturels et à une technologie nanoparticulaire. L’analyse annonce 6 % de cuivre soluble dans l’eau, 6 % de cuivre chélaté par acides aminés et 2 % d’extrait humique. Ces valeurs décrivent la formulation et ne s’additionnent pas comme des teneurs de cuivre distinctes.",
+    "slug": "nano-cop",
+    "id": 7,
+    "focus": "Cuivre chélaté, acides aminés et extrait humique",
+    "extra": "",
+    "new": false,
+    "packshot": "assets/packshots-original/nano-cop.webp"
+  },
+  {
+    "name": "NEXT",
+    "cat": "Adjuvants",
+    "sub": "Bio-adjuvant complexe",
+    "desc": "Surfactant, sticker et plant cleanser : un adjuvant pour accompagner les applications agricoles.",
+    "size": "20 L",
+    "img": "assets/label-next.webp",
+    "pdf": "assets/next.pdf",
+    "label": "assets/label-clean-next.webp",
+    "composition": [
+      [
+        "Extraits lipidiques polymérisés",
+        "Composition fonctionnelle"
+      ],
+      [
+        "Tensioactifs anioniques",
+        "Action mouillante"
+      ],
+      [
+        "Hydrocolloïdes cellulosiques",
+        "Adhérence"
+      ],
+      [
+        "Silicates micronisés",
+        "Film physique"
+      ]
+    ],
+    "benefits": [
+      "Améliore le mouillage et la couverture des feuilles.",
+      "Favorise l’adhérence et limite le dessèchement de la solution.",
+      "Forme une barrière physique et hydrophuge sur la surface foliaire."
+    ],
+    "uses": [
+      [
+        "Entretien / maintenance",
+        "5 à 7 ml / L d’eau",
+        "Soit 500 à 700 ml pour 100 L d’eau."
+      ],
+      [
+        "Forte pression",
+        "10 à 15 ml / L d’eau",
+        "Soit 1 à 1,5 L pour 100 L d’eau."
+      ],
+      [
+        "Maraîchage et grandes cultures",
+        "2 à 4 L / ha",
+        "Volume d’eau indiqué : 400 à 600 L."
+      ],
+      [
+        "Arboriculture",
+        "4 à 6 L / ha",
+        "Selon la densité du feuillage."
+      ],
+      [
+        "Application par drone",
+        "2 L / ha",
+        "Se référer aux conditions de l’étiquette."
+      ],
+      [
+        "Fertigation",
+        "5 à 10 L / ha",
+        "Application au goutte-à-goutte."
+      ]
+    ],
+    "cultures": "Maraîchage, grandes cultures et arboriculture, notamment olivier et agrumes.",
+    "physical": "Liquide visqueux concentré / gel fluide homogène soluble.",
+    "storage": "Emballage d’origine fermé, endroit frais et sec, à l’abri du gel et du soleil direct.",
+    "compatibility": "Faire un essai de compatibilité en volume réduit. Appliquer tôt le matin ou en fin de soirée, éviter les températures supérieures à 30 °C.",
+    "front": "assets/front-clean-next.webp",
+    "package": "can",
+    "state": "Formulation liquide",
+    "basis": "Lipides, tensioactifs, hydrocolloïdes et silicates",
+    "basisDetail": "Quatre familles de composants sont décrites : extraits lipidiques polymérisés, tensioactifs anioniques, hydrocolloïdes cellulosiques et silicates micronisés. Elles correspondent aux fonctions de mouillage, d’adhérence et de barrière physique indiquées sur l’étiquette.",
+    "slug": "next",
+    "id": 8,
+    "focus": "Lipides, tensioactifs, hydrocolloïdes et silicates",
+    "extra": "",
+    "new": false,
+    "packshot": "assets/packshots-original/next.webp"
+  },
+  {
+    "name": "CASTORA",
+    "cat": "Adjuvants",
+    "sub": "Bio-adjuvant d’origine végétale",
+    "desc": "Une formulation à base d’huile de ricin pour améliorer le mouillage et l’adhérence des traitements.",
+    "size": "1 L",
+    "img": "assets/uniform-label-9.webp",
+    "pdf": "assets/fiche-9.pdf",
+    "label": "assets/label-clean-castora.webp",
+    "composition": [
+      [
+        "Huile de ricin brute (Ricinus communis)",
+        "70 %"
+      ],
+      [
+        "Savon végétal potassique",
+        "20 %"
+      ],
+      [
+        "Extraits huileux végétaux",
+        "10 %"
+      ]
+    ],
+    "benefits": [
+      "Améliore le mouillage, l’étalement et l’adhérence.",
+      "Forme un film lipidique protecteur non systémique.",
+      "S’utilise sur le feuillage ou par irrigation localisée."
+    ],
+    "uses": [
+      [
+        "Application foliaire",
+        "150 à 200 ml / 100 L d’eau",
+        "Pulvériser uniformément tôt le matin ou en fin de soirée."
+      ],
+      [
+        "Application au sol",
+        "200 à 250 ml / 100 L d’eau",
+        "Appliquer par irrigation localisée au niveau de la zone racinaire."
+      ]
+    ],
+    "cultures": "Tous types de cultures, selon l’étiquette et le mode d’application.",
+    "physical": "Bio-adjuvant à base d’huile de ricin brute, avec système d’émulsion. Agiter vigoureusement avant emploi.",
+    "storage": "Emballage d’origine fermé, endroit frais et sec, à l’abri de la lumière, entre 5 et 30 °C.",
+    "compatibility": "Ne pas associer avec le soufre, le cuivre ou les huiles minérales lourdes. Faire un test préalable à petite échelle.",
+    "front": "assets/front-clean-castora.webp",
+    "package": "bottle",
+    "state": "Formulation liquide",
+    "basis": "Huile de ricin et savon végétal",
+    "basisDetail": "Une base de 70 % d’huile de ricin brute (Ricinus communis), complétée par 20 % de savon végétal potassique et 10 % d’extraits huileux végétaux. La formule est présentée comme un bio-adjuvant pour le mouillage et l’adhérence.",
+    "slug": "castora",
+    "id": 9,
+    "focus": "Huile de ricin et savon végétal",
+    "extra": "",
+    "new": false,
+    "packshot": "assets/packshots-original/castora.webp"
+  },
+  {
+    "name": "ATLASIA",
+    "cat": "Biostimulation",
+    "sub": "Hydrolysat de poisson pur",
+    "desc": "Biostimulant liquide obtenu par hydrolyse enzymatique à basse température de matières marines. Des acides aminés libres de forme L pour accompagner la reprise végétative et les cultures soumises aux stress climatiques.",
+    "size": "20 L",
+    "basis": "Hydrolysat marin & acides aminés L",
+    "basisDetail": "Biostimulant liquide obtenu par hydrolyse enzymatique à basse température de matières marines. Des acides aminés libres de forme L pour accompagner la reprise végétative et les cultures soumises aux stress climatiques.",
+    "composition": [
+      [
+        "Matière organique totale",
+        "≥ 45 %"
+      ],
+      [
+        "Acides aminés libres (L)",
+        "15–18 %"
+      ],
+      [
+        "Azote organique total (N)",
+        "4,5 %"
+      ],
+      [
+        "Phosphore (P₂O₅)",
+        "2,1 %"
+      ],
+      [
+        "Potassium (K₂O)",
+        "1,5 %"
+      ]
+    ],
+    "benefits": [
+      "Accompagne la croissance végétative, la floraison et la nouaison.",
+      "Soutient la vigueur des cultures et l’activité microbienne du sol.",
+      "Apporte des acides aminés directement exploitables par la plante."
+    ],
+    "uses": [
+      [
+        "Application foliaire",
+        "2–3 L / ha / passage",
+        "Dilution pratique : 1 L dans 200 L d’eau. Appliquer tôt le matin ou en fin d’après-midi."
+      ],
+      [
+        "Fertigation",
+        "5–10 L / ha / apport",
+        "Injecter durant le dernier tiers de l’arrosage sur sol humide, puis rincer le réseau à l’eau claire pendant 10 à 15 minutes."
+      ]
+    ],
+    "physical": "pH : 3,5–4,0. Origine marine. Formulation liquide concentrée.",
+    "storage": "Conserver dans l’emballage d’origine bien fermé, à l’abri de la lumière et de la chaleur. Tenir hors de portée des enfants.",
+    "cultures": "Maraîchage, arboriculture, céréales, légumineuses, agrumes, vigne et cultures ornementales.",
+    "compatibility": "Faire un test préalable avant tout mélange. Respecter les précautions de l’étiquette originale.",
+    "package": "can",
+    "state": "Formulation liquide",
+    "extra": "",
+    "slug": "atlasia",
+    "id": 10,
+    "focus": "Hydrolysat marin & acides aminés L",
+    "pdf": "assets/atlasia.pdf",
+    "label": "assets/label-clean-atlasia.webp",
+    "front": "assets/front-clean-atlasia.webp",
+    "img": "assets/label-atlasia.webp",
+    "new": true,
+    "packshot": "assets/packshots-original/atlasia.webp"
+  },
+  {
+    "name": "HYBRID CARBON",
+    "cat": "Nutrition du sol",
+    "sub": "Humate & biochar liquide activé",
+    "desc": "Complexe carboné activé, enrichi en potassium et stabilisé par bio-fermentation sur une matrice de vermicompost. Une formulation liquide pour la vie du sol, la rétention d’eau et la disponibilité des nutriments.",
+    "size": "20 L / 200 L",
+    "basis": "Humate, biochar & potassium",
+    "basisDetail": "Complexe carboné activé, enrichi en potassium et stabilisé par bio-fermentation sur une matrice de vermicompost. Une formulation liquide pour la vie du sol, la rétention d’eau et la disponibilité des nutriments.",
+    "composition": [
+      [
+        "Matière organique carbonée activée",
+        "45–50 %"
+      ],
+      [
+        "Potassium soluble (K₂O)",
+        "10–12 %"
+      ],
+      [
+        "Acides humiques et fulviques",
+        "Issus de la bio-fermentation"
+      ],
+      [
+        "Oligo-éléments complexés",
+        "Fer, zinc, magnésium"
+      ]
+    ],
+    "benefits": [
+      "Offre une matrice poreuse à la flore bénéfique du sol.",
+      "Contribue à la rétention de l’eau et des éléments nutritifs dans la rhizosphère.",
+      "Accompagne la structuration et l’aération des sols."
+    ],
+    "uses": [
+      [
+        "Irrigation au goutte-à-goutte",
+        "25–40 L / ha / application",
+        "Appliquer tous les 10 à 15 jours, en priorité après transplantation, en pré-floraison et au grossissement. Injecter de préférence dans le dernier tiers de l’arrosage."
+      ]
+    ],
+    "physical": "Solution stable brun-noir, microfiltrée. pH : 7,0–7,5.",
+    "storage": "Conserver dans l’emballage d’origine bien fermé, à l’abri de la lumière et de la chaleur. Tenir hors de portée des enfants.",
+    "cultures": "Maraîchage, notamment oignons et cucurbitacées ; arboriculture fruitière et cultures en zones arides.",
+    "compatibility": "Faire un test préalable avant tout mélange. Respecter les précautions de l’étiquette originale.",
+    "package": "can",
+    "state": "Formulation liquide",
+    "extra": "Vérifier régulièrement les filtres du secteur d’irrigation pour maintenir un débit optimal. Agiter énergiquement avant chaque utilisation.",
+    "slug": "hybrid-carbon",
+    "id": 11,
+    "focus": "Humate, biochar & potassium",
+    "pdf": "assets/hybrid-carbon.pdf",
+    "label": "assets/label-clean-hybrid-carbon.webp",
+    "front": "assets/front-clean-hybrid-carbon.webp",
+    "img": "assets/label-hybrid-carbon.webp",
+    "new": true,
+    "packshot": "assets/packshots-original/hybrid-carbon.webp"
+  },
+  {
+    "name": "NEVORA",
+    "cat": "Adjuvants",
+    "sub": "Lustrant foliaire & biostimulant végétal",
+    "desc": "Extrait d’Azadirachta indica obtenu par pression mécanique à froid. Un soin végétal destiné au nettoyage du feuillage, à son éclat et à la vigueur générale des plantes.",
+    "size": "1 L",
+    "basis": "Extrait d’Azadirachta indica",
+    "basisDetail": "Extrait d’Azadirachta indica obtenu par pression mécanique à froid. Un soin végétal destiné au nettoyage du feuillage, à son éclat et à la vigueur générale des plantes.",
+    "composition": [
+      [
+        "Extrait d’Azadirachta indica",
+        "100 %"
+      ],
+      [
+        "Acides gras naturels",
+        "Oléique, stéarique et palmitique"
+      ],
+      [
+        "Composés végétaux",
+        "Azadirachtine et limonoïdes"
+      ],
+      [
+        "Solvants chimiques et additifs artificiels",
+        "Sans ajout selon l’étiquette"
+      ]
+    ],
+    "benefits": [
+      "Nettoie le feuillage des poussières et des miellats.",
+      "Apporte une brillance naturelle aux feuilles.",
+      "Accompagne la vigueur et la résistance aux stress environnementaux."
+    ],
+    "uses": [
+      [
+        "Application foliaire",
+        "2–3 L / ha ; 4–5 L / ha en intensif",
+        "Volume d’eau : 400 à 600 L / ha. Mélanger d’abord avec la moitié de son volume en savon potassique, puis incorporer dans l’eau. Dilution pratique indiquée : 1 à 2 L / 200 L d’eau."
+      ],
+      [
+        "Irrigation",
+        "5–10 L / ha / passage",
+        "Pré-émulsionner avec la moitié du volume en savon potassique dans de l’eau tiède. Injecter pendant le dernier tiers de l’arrosage puis rincer 10 à 15 minutes."
+      ]
+    ],
+    "physical": "Extrait végétal huileux. Peut se figer en dessous de 15 °C ; réchauffer le flacon dans de l’eau tiède pour retrouver sa fluidité.",
+    "storage": "Emballage d’origine fermé, à l’abri de la lumière directe, entre 15 et 30 °C.",
+    "cultures": "Maraîchage, arboriculture, céréales, légumineuses, agrumes, vigne et cultures ornementales.",
+    "compatibility": "Faire un test préalable avant tout mélange. Respecter les précautions de l’étiquette originale.",
+    "package": "bottle",
+    "state": "Formulation liquide",
+    "extra": "",
+    "slug": "nevora",
+    "id": 12,
+    "focus": "Extrait d’Azadirachta indica",
+    "pdf": "assets/nevora.pdf",
+    "label": "assets/label-clean-nevora.webp",
+    "front": "assets/front-clean-nevora.webp",
+    "img": "assets/label-nevora.webp",
+    "new": true,
+    "packshot": "assets/packshots-original/nevora.webp"
+  },
+  {
+    "name": "VERMI T GOLD",
+    "cat": "Nutrition du sol",
+    "sub": "Thé de vermicompost",
+    "desc": "Biostimulant organique liquide issu du vermicompost, associant matière organique, acides humiques et fulviques et micro-organismes naturellement présents.",
+    "size": "20 L",
+    "basis": "Thé de vermicompost & acides humiques",
+    "basisDetail": "Biostimulant organique liquide issu du vermicompost, associant matière organique, acides humiques et fulviques et micro-organismes naturellement présents.",
+    "composition": [
+      [
+        "Thé de vermicompost",
+        "100 %"
+      ],
+      [
+        "Matière organique",
+        "20–30 %"
+      ],
+      [
+        "Azote total (N)",
+        "0,5–1,0 %"
+      ],
+      [
+        "Phosphore (P₂O₅)",
+        "0,15–0,6 %"
+      ],
+      [
+        "Potassium (K₂O)",
+        "0,4–0,7 %"
+      ],
+      [
+        "Calcium",
+        "0,2–0,5 %"
+      ],
+      [
+        "Magnésium",
+        "0,1–0,3 %"
+      ],
+      [
+        "Acides humiques",
+        "1–3 %"
+      ],
+      [
+        "Acides fulviques",
+        "1–3 %"
+      ]
+    ],
+    "benefits": [
+      "Apporte une fraction organique et des nutriments.",
+      "Accompagne la fertilité du sol et la vie microbienne.",
+      "Contient naturellement acides aminés, vitamines et enzymes."
+    ],
+    "uses": [
+      [
+        "Application foliaire",
+        "20 L / ha",
+        "Diluer dans 100 à 200 L d’eau."
+      ],
+      [
+        "Goutte-à-goutte",
+        "40 L / ha",
+        "Diluer dans l’eau d’irrigation."
+      ],
+      [
+        "Semis et pépinières",
+        "2–3 mL / L d’eau",
+        "Arroser ou tremper les semences."
+      ],
+      [
+        "Arrosage localisé",
+        "2–5 L / ha",
+        "Diluer selon le type de culture."
+      ]
+    ],
+    "physical": "pH : 6,0–7,5. Conductivité : 1,0–2,5 mS/cm.",
+    "storage": "Conserver entre 5 et 35 °C, à l’abri du gel, du soleil, de la chaleur et de la lumière. Agiter avant emploi.",
+    "cultures": "Maraîchage, arboriculture, céréales, légumineuses, agrumes, vigne et cultures ornementales.",
+    "compatibility": "Faire un test préalable avant tout mélange. Respecter les précautions de l’étiquette originale.",
+    "package": "can",
+    "state": "Formulation liquide",
+    "extra": "",
+    "slug": "vermi-t-gold",
+    "id": 13,
+    "focus": "Thé de vermicompost & acides humiques",
+    "pdf": "assets/vermi-t-gold.pdf",
+    "label": "assets/label-clean-vermi-t-gold.webp",
+    "front": "assets/front-clean-vermi-t-gold.webp",
+    "img": "assets/label-vermi-t-gold.webp",
+    "new": true,
+    "packshot": "assets/packshots-original/vermi-t-gold.webp"
+  },
+  {
+    "name": "VEXTA",
+    "cat": "Protection des cultures",
+    "sub": "Formulation végétale de biocontrôle",
+    "desc": "Association d’extraits de plantes, d’huiles essentielles et de sels potassiques d’acides gras. L’étiquette présente une action de contact sur différents stades des ravageurs : œufs, larves et adultes.",
+    "size": "20 L",
+    "basis": "Extraits de plantes & huiles essentielles",
+    "basisDetail": "Association d’extraits de plantes, d’huiles essentielles et de sels potassiques d’acides gras. L’étiquette présente une action de contact sur différents stades des ravageurs : œufs, larves et adultes.",
+    "composition": [
+      [
+        "Extraits de plantes",
+        "Margousier, ail, piment, romarin, thym, citronnelle, eucalyptus"
+      ],
+      [
+        "Huiles essentielles",
+        "Complexe végétal"
+      ],
+      [
+        "Sels potassiques",
+        "Acides gras"
+      ],
+      [
+        "Excipients",
+        "Origine naturelle"
+      ]
+    ],
+    "benefits": [
+      "Formulation destinée à interrompre le cycle des ravageurs selon le fabricant.",
+      "Action de contact sur le feuillage et les insectes ciblés.",
+      "Application foliaire avec couverture uniforme des deux faces des feuilles."
+    ],
+    "uses": [
+      [
+        "Pulvérisation foliaire",
+        "1–2 % (10–20 mL / L d’eau)",
+        "Diluer dans l’eau et couvrir les deux faces du feuillage. Répéter tous les 7 à 10 jours selon la pression des ravageurs."
+      ]
+    ],
+    "physical": "Formulation liquide à base d’extraits végétaux. Agiter avant emploi.",
+    "storage": "Conserver dans l’emballage d’origine bien fermé, à l’abri de la lumière et de la chaleur. Tenir hors de portée des enfants.",
+    "cultures": "Cultures agricoles. Cibles indiquées sur l’étiquette : piqueurs-suceurs, acariens, lépidoptères et mouches des fruits.",
+    "compatibility": "Faire un test préalable avant tout mélange. Respecter les précautions de l’étiquette originale.",
+    "package": "can",
+    "state": "Formulation liquide",
+    "extra": "",
+    "slug": "vexta",
+    "id": 14,
+    "focus": "Extraits de plantes & huiles essentielles",
+    "pdf": "assets/vexta.pdf",
+    "label": "assets/label-clean-vexta.webp",
+    "front": "assets/front-clean-vexta.webp",
+    "img": "assets/label-vexta.webp",
+    "new": true,
+    "packshot": "assets/packshots-original/vexta.webp"
+  },
+  {
+    "name": "MICROBOOST",
+    "cat": "Biostimulation",
+    "sub": "Biostimulant microbien",
+    "desc": "Concentré de bactéries et de champignons bénéfiques, avec matière organique et extraits de plantes, pour accompagner la fertilité biologique du sol et la vitalité des cultures.",
+    "size": "20 L",
+    "basis": "Bactéries, champignons & matière organique",
+    "basisDetail": "Concentré de bactéries et de champignons bénéfiques, avec matière organique et extraits de plantes, pour accompagner la fertilité biologique du sol et la vitalité des cultures.",
+    "composition": [
+      [
+        "Matière organique",
+        "≥ 15 %"
+      ],
+      [
+        "Carbone organique",
+        "≥ 9 %"
+      ],
+      [
+        "Azote total (N)",
+        "≥ 1,5 %"
+      ],
+      [
+        "Bacillus subtilis",
+        "≥ 1,0 × 10⁸ UFC/mL"
+      ],
+      [
+        "Bacillus megaterium",
+        "≥ 1,0 × 10⁸ UFC/mL"
+      ],
+      [
+        "Pseudomonas fluorescens",
+        "≥ 1,0 × 10⁸ UFC/mL"
+      ],
+      [
+        "Azotobacter chroococcum",
+        "≥ 1,0 × 10⁸ UFC/mL"
+      ],
+      [
+        "Trichoderma harzianum",
+        "≥ 1,0 × 10⁷ UFC/mL"
+      ],
+      [
+        "Trichoderma viride",
+        "≥ 1,0 × 10⁷ UFC/mL"
+      ],
+      [
+        "Actinomycètes",
+        "≥ 1,0 × 10⁷ UFC/mL"
+      ],
+      [
+        "Levures bénéfiques",
+        "≥ 1,0 × 10⁷ UFC/mL"
+      ]
+    ],
+    "benefits": [
+      "Accompagne l’activité microbienne et la décomposition de la matière organique.",
+      "Favorise la disponibilité des éléments nutritifs et le développement racinaire.",
+      "Soutient la vigueur et la résistance aux stress abiotiques."
+    ],
+    "uses": [
+      [
+        "Goutte-à-goutte",
+        "10–20 L / ha",
+        "Diluer dans l’eau d’irrigation. Agiter avant utilisation."
+      ]
+    ],
+    "physical": "pH : 6,0–8,0. Densité à 20 °C : 1,00–1,10.",
+    "storage": "Conserver à l’abri du gel et du soleil. Refermer l’emballage après utilisation.",
+    "cultures": "Maraîchage, arboriculture, céréales, légumineuses, agrumes, vigne et cultures ornementales.",
+    "compatibility": "Faire un test préalable avant tout mélange. Respecter les précautions de l’étiquette originale.",
+    "package": "can",
+    "state": "Formulation liquide",
+    "extra": "Les souches et les concentrations microbiologiques détaillées figurent sur l’étiquette originale téléchargeable.",
+    "slug": "microboost",
+    "id": 15,
+    "focus": "Bactéries, champignons & matière organique",
+    "pdf": "assets/microboost.pdf",
+    "label": "assets/label-clean-microboost.webp",
+    "front": "assets/front-clean-microboost.webp",
+    "img": "assets/label-microboost.webp",
+    "new": true,
+    "packshot": "assets/packshots-original/microboost.webp"
+  },
+  {
+    "name": "ROOTVITAL",
+    "cat": "Biostimulation",
+    "sub": "Engrais & biostimulant racinaire",
+    "desc": "Une association d’éléments nutritifs, d’acides humiques, fulviques et aminés pour accompagner l’enracinement, l’absorption des nutriments et la croissance des cultures.",
+    "size": "20 L",
+    "basis": "NPK, acides humiques & acides aminés",
+    "basisDetail": "Une association d’éléments nutritifs, d’acides humiques, fulviques et aminés pour accompagner l’enracinement, l’absorption des nutriments et la croissance des cultures.",
+    "composition": [
+      [
+        "Azote total (N)",
+        "5 %"
+      ],
+      [
+        "Phosphore (P₂O₅)",
+        "10 %"
+      ],
+      [
+        "Potassium (K₂O)",
+        "5 %"
+      ],
+      [
+        "Matière organique",
+        "10 %"
+      ],
+      [
+        "Acides humiques",
+        "4 %"
+      ],
+      [
+        "Acides fulviques",
+        "2 %"
+      ],
+      [
+        "Acides aminés",
+        "2 %"
+      ]
+    ],
+    "benefits": [
+      "Favorise l’enracinement et le développement des racines.",
+      "Accompagne l’assimilation des nutriments et la vigueur végétale.",
+      "Contribue à la structure du sol et à sa rétention d’eau."
+    ],
+    "uses": [
+      [
+        "Goutte-à-goutte",
+        "5–10 L / ha",
+        "Diluer dans l’eau d’irrigation. Une à deux applications par cycle selon les besoins."
+      ]
+    ],
+    "physical": "pH : 5,0–7,0. Densité à 20 °C : 1,10–1,25. Solubilité : ≥ 97 %.",
+    "storage": "Conserver dans l’emballage d’origine bien fermé, à l’abri de la lumière et de la chaleur. Tenir hors de portée des enfants.",
+    "cultures": "Maraîchage, arboriculture, céréales, légumineuses, agrumes, vigne et cultures ornementales.",
+    "compatibility": "Faire un test préalable avant tout mélange. Respecter les précautions de l’étiquette originale.",
+    "package": "can",
+    "state": "Formulation liquide",
+    "extra": "",
+    "slug": "rootvital",
+    "id": 16,
+    "focus": "NPK, acides humiques & acides aminés",
+    "pdf": "assets/rootvital.pdf",
+    "label": "assets/label-clean-rootvital.webp",
+    "front": "assets/front-clean-rootvital.webp",
+    "img": "assets/label-rootvital.webp",
+    "new": true,
+    "packshot": "assets/packshots-original/rootvital.webp"
+  },
+  {
+    "name": "VITANOVA",
+    "cat": "Biostimulation",
+    "sub": "Biostimulant de floraison",
+    "desc": "Complexe de nutrition naturelle, de composés bioactifs et de ferments bénéfiques, destiné à la floraison, à la viabilité du pollen, à la nouaison et au développement des fruits.",
+    "size": "20 L",
+    "basis": "Acides aminés, calcium, bore & ferments",
+    "basisDetail": "Complexe de nutrition naturelle, de composés bioactifs et de ferments bénéfiques, destiné à la floraison, à la viabilité du pollen, à la nouaison et au développement des fruits.",
+    "composition": [
+      [
+        "Protéines et acides aminés",
+        "5 % p/v"
+      ],
+      [
+        "Azote organique (N)",
+        "2 % p/v"
+      ],
+      [
+        "Extraits végétaux riches en polyphénols",
+        "3 % p/v"
+      ],
+      [
+        "Calcium (Ca)",
+        "1,5 % p/v"
+      ],
+      [
+        "Bore (B)",
+        "0,5 % p/v"
+      ],
+      [
+        "Potassium (K₂O)",
+        "2 % p/v"
+      ],
+      [
+        "Oligo-éléments (Fe, Zn, Mn, Cu, Mo)",
+        "0,2 % p/v"
+      ],
+      [
+        "Peptides et facteurs de croissance",
+        "1 % p/v"
+      ],
+      [
+        "Polysaccharides et bêta-glucanes",
+        "1 % p/v"
+      ],
+      [
+        "Composés phénoliques et curcuminoïdes",
+        "0,5 % p/v"
+      ],
+      [
+        "Sucres naturels",
+        "3 % p/v"
+      ],
+      [
+        "Extraits laitiers",
+        "5 % p/v"
+      ],
+      [
+        "Extraits d’œuf",
+        "2 % p/v"
+      ],
+      [
+        "Lactobacillus spp.",
+        "≥ 10⁸ UFC/mL"
+      ],
+      [
+        "Autres ferments naturels",
+        "≥ 10⁷ UFC/mL"
+      ]
+    ],
+    "benefits": [
+      "Accompagne la floraison et la nouaison.",
+      "Favorise l’assimilation des éléments nutritifs.",
+      "Soutient la qualité et le calibre des fruits."
+    ],
+    "uses": [
+      [
+        "Application foliaire",
+        "2–4 L / ha",
+        "Soit 200 à 400 mL / 100 L d’eau. Aux stades pré-floraison, pleine floraison et début de nouaison."
+      ],
+      [
+        "Fertigation",
+        "5–10 L / ha",
+        "Adapter à la culture et au stade de développement. Agiter ; appliquer de préférence tôt le matin ou en fin de journée."
+      ]
+    ],
+    "physical": "Suspension liquide concentrée. pH : 4,0–5,5. Densité à 20 °C : 1,05–1,15.",
+    "storage": "Endroit sec et frais, à l’abri de la lumière, entre 5 et 30 °C. Conservation annoncée : 24 mois ; bien refermer après ouverture.",
+    "cultures": "Maraîchage, arboriculture, céréales, légumineuses, agrumes, vigne et cultures ornementales.",
+    "compatibility": "Faire un test préalable avant tout mélange. Respecter les précautions de l’étiquette originale.",
+    "package": "can",
+    "state": "Formulation liquide",
+    "extra": "",
+    "slug": "vitanova",
+    "id": 17,
+    "focus": "Acides aminés, calcium, bore & ferments",
+    "pdf": "assets/vitanova.pdf",
+    "label": "assets/label-clean-vitanova.webp",
+    "front": "assets/front-clean-vitanova.webp",
+    "img": "assets/label-vitanova.webp",
+    "new": true,
+    "packshot": "assets/packshots-original/vitanova.webp"
+  },
+  {
+    "name": "XYLOVITAL",
+    "cat": "Biostimulation",
+    "sub": "Liquide pyroligneux végétal",
+    "desc": "Solution organique liquide obtenue par condensation des vapeurs de pyrolyse contrôlée de biomasses végétales. Une formulation riche en composés organiques pour le sol et l’environnement racinaire.",
+    "size": "20 L",
+    "basis": "Composés issus de biomasses végétales",
+    "basisDetail": "Solution organique liquide obtenue par condensation des vapeurs de pyrolyse contrôlée de biomasses végétales. Une formulation riche en composés organiques pour le sol et l’environnement racinaire.",
+    "composition": [
+      [
+        "Matière organique totale",
+        "20–30 %"
+      ],
+      [
+        "Carbone organique",
+        "10–15 %"
+      ],
+      [
+        "Acides organiques totaux",
+        "2–4 %"
+      ],
+      [
+        "Acide acétique",
+        "0,5–1,5 %"
+      ],
+      [
+        "Acide propionique",
+        "0,2–0,6 %"
+      ],
+      [
+        "Acide formique",
+        "0,1–0,3 %"
+      ],
+      [
+        "Autres acides organiques",
+        "0,2–0,5 %"
+      ],
+      [
+        "Phénols totaux",
+        "1,0–2,5 %"
+      ],
+      [
+        "Carbonyles",
+        "0,5–1,5 %"
+      ],
+      [
+        "Alcools",
+        "0,5–1,5 %"
+      ],
+      [
+        "Furfural et dérivés",
+        "0,1–0,3 %"
+      ],
+      [
+        "Matière sèche",
+        "≤ 5 %"
+      ],
+      [
+        "Cendres",
+        "≤ 1 %"
+      ],
+      [
+        "Eau",
+        "≥ 90 %"
+      ]
+    ],
+    "benefits": [
+      "Accompagne l’activité biologique du sol et la disponibilité des nutriments.",
+      "Contribue à l’environnement racinaire et au développement des racines.",
+      "Soutient la vigueur et la réponse aux stress selon le fabricant."
+    ],
+    "uses": [
+      [
+        "Goutte-à-goutte",
+        "40 L / ha",
+        "Diluer dans l’eau d’irrigation. Agiter avant utilisation."
+      ]
+    ],
+    "physical": "pH : 2,0–3,5. Conductivité : 1,0–2,5 mS/cm. Densité à 20 °C : 1,00–1,05.",
+    "storage": "Conserver à l’abri du gel et du soleil, dans l’emballage bien fermé.",
+    "cultures": "Maraîchage, arboriculture, céréales, légumineuses, agrumes, vigne et cultures ornementales.",
+    "compatibility": "Faire un test préalable avant tout mélange. Respecter les précautions de l’étiquette originale.",
+    "package": "can",
+    "state": "Formulation liquide",
+    "extra": "",
+    "slug": "xylovital",
+    "id": 18,
+    "focus": "Composés issus de biomasses végétales",
+    "pdf": "assets/xylovital.pdf",
+    "label": "assets/label-clean-xylovital.webp",
+    "front": "assets/front-clean-xylovital.webp",
+    "img": "assets/label-xylovital.webp",
+    "new": true,
+    "packshot": "assets/packshots-original/xylovital.webp"
+  },
+  {
+    "name": "K-90",
+    "cat": "Nutrition végétale",
+    "sub": "Nutrition potassique au citrate",
+    "desc": "Une formulation à base de citrate de potassium, d’extrait organique et de micro-organismes bénéfiques, destinée à accompagner le remplissage, la maturation et la qualité des fruits.",
+    "size": "20 L",
+    "basis": "Citrate de potassium & complexe microbien",
+    "basisDetail": "Une formulation à base de citrate de potassium, d’extrait organique et de micro-organismes bénéfiques, destinée à accompagner le remplissage, la maturation et la qualité des fruits.",
+    "composition": [
+      [
+        "Potassium soluble (K₂O)",
+        "15 %"
+      ],
+      [
+        "Citrate de potassium",
+        "30 %"
+      ],
+      [
+        "Extrait organique",
+        "5 %"
+      ],
+      [
+        "Acide citrique",
+        "5 %"
+      ],
+      [
+        "Micro-organismes bénéfiques",
+        "≥ 1 × 10⁸ (selon l’étiquette)"
+      ]
+    ],
+    "benefits": [
+      "Accompagne le grossissement et le remplissage des fruits.",
+      "Favorise l’accumulation des sucres et l’homogénéité des récoltes.",
+      "Soutient la floraison, les racines et la réponse aux stress."
+    ],
+    "uses": [
+      [
+        "Goutte-à-goutte",
+        "20 L / ha",
+        "Diluer dans l’eau d’irrigation. Une à deux applications par cycle selon les besoins."
+      ]
+    ],
+    "physical": "Formulation liquide. Agiter avant utilisation.",
+    "storage": "Conserver dans l’emballage d’origine bien fermé, à l’abri de la lumière et de la chaleur. Tenir hors de portée des enfants.",
+    "cultures": "Maraîchage, arboriculture, céréales, légumineuses, agrumes, vigne et cultures ornementales.",
+    "compatibility": "Faire un test préalable avant tout mélange. Respecter les précautions de l’étiquette originale.",
+    "package": "can",
+    "state": "Formulation liquide",
+    "extra": "",
+    "slug": "k-90",
+    "id": 19,
+    "focus": "Citrate de potassium & complexe microbien",
+    "pdf": "assets/k-90.pdf",
+    "label": "assets/label-clean-k-90.webp",
+    "front": "assets/front-clean-k-90.webp",
+    "img": "assets/label-k-90.webp",
+    "new": true,
+    "packshot": "assets/packshots-original/k-90.webp"
+  },
+  {
+    "name": "COMPOST ORGANIQUE",
+    "cat": "Nutrition du sol",
+    "sub": "Fumier de cheval & mélange végétal",
+    "desc": "Amendement naturel issu du compostage contrôlé et aérobie de fumier de cheval et de matières végétales. Un humus stable, à texture fine et friable, pour entretenir la fertilité des sols.",
+    "size": "50 kg",
+    "basis": "Fumier de cheval & matières végétales",
+    "basisDetail": "Amendement naturel issu du compostage contrôlé et aérobie de fumier de cheval et de matières végétales. Un humus stable, à texture fine et friable, pour entretenir la fertilité des sols.",
+    "composition": [
+      [
+        "Matière organique",
+        "45–60 % sur produit brut"
+      ],
+      [
+        "Rapport C/N",
+        "12–18"
+      ],
+      [
+        "Humidité",
+        "25–35 %"
+      ],
+      [
+        "Azote total (N)",
+        "1,2–2,0 %"
+      ],
+      [
+        "Phosphore (P₂O₅)",
+        "0,8–1,5 %"
+      ],
+      [
+        "Potassium (K₂O)",
+        "1,0–2,2 %"
+      ],
+      [
+        "Oligo-éléments",
+        "Ca, Mg, Fe, Zn"
+      ]
+    ],
+    "benefits": [
+      "Aère et structure le sol.",
+      "Apporte une nutrition progressive et de la matière organique.",
+      "Accompagne la vie biologique et la rétention d’eau."
+    ],
+    "uses": [
+      [
+        "Maraîchage / sous serre",
+        "10–20 t / ha (1–2 kg / m²)",
+        "Avant plantation ou semis. Incorporer à 10–15 cm de profondeur, puis arroser."
+      ],
+      [
+        "Arboriculture",
+        "5–15 kg / arbre",
+        "En couronne selon l’âge ; à l’automne ou au début du printemps."
+      ],
+      [
+        "Grandes cultures",
+        "5–10 t / ha",
+        "Avant le travail du sol."
+      ],
+      [
+        "Pépinières et pots",
+        "20–30 % en mélange",
+        "Mélanger avec la terre ou le substrat."
+      ]
+    ],
+    "physical": "Brun foncé à noir, texture fine et friable, odeur de sous-bois. pH (eau) : 7,0–8,0. Valeurs moyennes indicatives.",
+    "storage": "Au sec, dans un lieu aéré, à l’abri du soleil et des intempéries. Se laver les mains après utilisation.",
+    "cultures": "Maraîchage, arboriculture, céréales, légumineuses, agrumes, vigne et cultures ornementales.",
+    "compatibility": "Faire un test préalable avant tout mélange. Respecter les précautions de l’étiquette originale.",
+    "package": "bag",
+    "state": "Amendement solide",
+    "extra": "",
+    "slug": "compost-organique",
+    "id": 20,
+    "focus": "Fumier de cheval & matières végétales",
+    "pdf": "assets/compost-organique.pdf",
+    "label": "assets/label-clean-compost-organique.webp",
+    "front": "assets/front-clean-compost-organique.webp",
+    "img": "assets/label-compost-organique.webp",
+    "new": true,
+    "packshot": "assets/packshots-original/compost-organique.webp"
+  },
+  {
+    "name": "VERMICOMPOST",
+    "cat": "Nutrition du sol",
+    "sub": "Lombricompost 100 % naturel",
+    "desc": "Matières végétales et fumiers transformés à froid par les vers rouges Eisenia fetida et Eisenia andrei. Un amendement organique fin et grumeleux, pour la fertilité et l’enracinement.",
+    "size": "50 kg",
+    "basis": "Vermicompost de matières organiques",
+    "basisDetail": "Matières végétales et fumiers transformés à froid par les vers rouges Eisenia fetida et Eisenia andrei. Un amendement organique fin et grumeleux, pour la fertilité et l’enracinement.",
+    "composition": [
+      [
+        "Matière organique",
+        "50–65 % sur matière sèche"
+      ],
+      [
+        "Acides humiques et fulviques",
+        "10–15 %"
+      ],
+      [
+        "Rapport C/N",
+        "10–14"
+      ],
+      [
+        "Humidité",
+        "30–40 %"
+      ],
+      [
+        "Azote total (N)",
+        "1,5–2,5 %"
+      ],
+      [
+        "Phosphore (P₂O₅)",
+        "1,0–2,0 %"
+      ],
+      [
+        "Potassium (K₂O)",
+        "1,2–2,5 %"
+      ],
+      [
+        "Oligo-éléments",
+        "Ca, Mg, Fe, Zn, Mn"
+      ]
+    ],
+    "benefits": [
+      "Soutient la vie microbienne du sol.",
+      "Apporte des nutriments et accompagne l’enracinement.",
+      "Améliore la rétention d’eau."
+    ],
+    "uses": [
+      [
+        "Maraîchage / sous serre",
+        "2–4 t / ha (40–80 sacs / ha)",
+        "Au semis ou au repiquage. Incorporer légèrement puis arroser."
+      ],
+      [
+        "Arboriculture",
+        "1–3 kg / arbre à la plantation",
+        "2 à 5 kg / arbre adulte en entretien annuel."
+      ],
+      [
+        "Pépinières / semis",
+        "15–20 % en mélange",
+        "Mélanger au terreau ou à la tourbe."
+      ],
+      [
+        "Gazon / espaces verts",
+        "300–500 g / m²",
+        "À la création ou en surfaçage."
+      ]
+    ],
+    "physical": "Noir profond, odeur de terre forestière. pH (eau) : 6,8–7,5. Valeurs moyennes indicatives.",
+    "storage": "Au frais, à l’ombre et dans un lieu aéré. Éviter le dessèchement complet pour préserver la vie microbienne.",
+    "cultures": "Maraîchage, arboriculture, céréales, légumineuses, agrumes, vigne et cultures ornementales.",
+    "compatibility": "Faire un test préalable avant tout mélange. Respecter les précautions de l’étiquette originale.",
+    "package": "bag",
+    "state": "Amendement solide",
+    "extra": "",
+    "slug": "vermicompost",
+    "id": 21,
+    "focus": "Vermicompost de matières organiques",
+    "pdf": "assets/vermicompost.pdf",
+    "label": "assets/label-clean-vermicompost.webp",
+    "front": "assets/front-clean-vermicompost.webp",
+    "img": "assets/label-vermicompost.webp",
+    "new": true,
+    "packshot": "assets/packshots-original/vermicompost.webp"
+  },
+  {
+    "name": "BIOCHAR",
+    "cat": "Nutrition du sol",
+    "sub": "Biochar activé & enrichi",
+    "desc": "Biomasse végétale pyrolysée puis activée et enrichie biologiquement et minéralement. Une matrice carbonée microporeuse, associée à un complexe organo-minéral et à des acides organiques.",
+    "size": "50 kg",
+    "basis": "Carbone végétal activé & complexe organo-minéral",
+    "basisDetail": "Biomasse végétale pyrolysée puis activée et enrichie biologiquement et minéralement. Une matrice carbonée microporeuse, associée à un complexe organo-minéral et à des acides organiques.",
+    "composition": [
+      [
+        "Carbone organique fixe",
+        "55–70 %"
+      ],
+      [
+        "Surface spécifique",
+        "> 250 m² / g"
+      ],
+      [
+        "CEC",
+        "> 40 meq / 100 g"
+      ],
+      [
+        "Humidité",
+        "20–30 %"
+      ],
+      [
+        "Azote total (N)",
+        "2,5–4,5 %"
+      ],
+      [
+        "Potassium (K₂O)",
+        "1,5–3,0 %"
+      ],
+      [
+        "Autres éléments",
+        "Ca, Mg, Fe"
+      ]
+    ],
+    "benefits": [
+      "Contribue à l’habitat microbien et à l’enracinement.",
+      "Accompagne la rétention d’eau et la fertilité durable.",
+      "Apporte une nutrition azotée progressive."
+    ],
+    "uses": [
+      [
+        "Maraîchage / sous serre",
+        "1,5–3 t / ha (30–60 sacs / ha)",
+        "Avant repiquage, incorporer dans la zone racinaire à 10–20 cm."
+      ],
+      [
+        "Arboriculture",
+        "1–2 kg / arbre à la plantation",
+        "2 à 4 kg / arbre adulte en entretien, puis griffer et arroser."
+      ],
+      [
+        "Grandes cultures",
+        "500 kg–1,5 t / ha (10–30 sacs / ha)",
+        "Localiser au semis."
+      ],
+      [
+        "Pépinières / substrats",
+        "5–10 % du volume",
+        "Mélanger au terreau."
+      ]
+    ],
+    "physical": "Granulés ou poudre noire légèrement humide. pH (eau) : 6,8–7,8. Valeurs moyennes indicatives.",
+    "storage": "Sac fermé, à l’abri de la pluie et de la chaleur excessive. Préserver l’humidité et l’activité biologique.",
+    "cultures": "Maraîchage, arboriculture, céréales, légumineuses, agrumes, vigne et cultures ornementales.",
+    "compatibility": "Faire un test préalable avant tout mélange. Respecter les précautions de l’étiquette originale.",
+    "package": "bag",
+    "state": "Amendement solide",
+    "extra": "",
+    "slug": "biochar",
+    "id": 22,
+    "focus": "Carbone végétal activé & complexe organo-minéral",
+    "pdf": "assets/biochar.pdf",
+    "label": "assets/label-clean-biochar.webp",
+    "front": "assets/front-clean-biochar.webp",
+    "img": "assets/label-biochar.webp",
+    "new": true,
+    "packshot": "assets/packshots-original/biochar.webp"
+  }
+]
