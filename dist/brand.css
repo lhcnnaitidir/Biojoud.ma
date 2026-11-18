@@ -157,3 +157,5 @@ html[dir=rtl] .header nav#main-nav.open{clip-path:inset(0)}
 .whatsapp-dialog #whatsapp-open{width:100%;justify-content:space-between}
 .whatsapp-copy-number{width:100%;min-height:46px;border:1px solid #cedbc4;background:#f3f6ec;color:#16432b;border-radius:4px;margin-top:12px;font-size:14px;cursor:pointer}
 .whatsapp-dialog .whatsapp-help{font-size:13px;line-height:1.7;margin-bottom:0;color:#61735a}
+
+.whatsapp-contact-option{padding:16px 0;border-bottom:1px solid #d9e3da}.whatsapp-contact-option .whatsapp-number{margin-top:0}.whatsapp-contact-option .button{display:flex;justify-content:space-between}

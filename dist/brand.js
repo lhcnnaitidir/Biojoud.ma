@@ -4,12 +4,13 @@ const config=JSON.parse($('#site-config')?.textContent||'{}'),prefix=config.pref
 const whatsapp=$('.whatsapp-fab'),whatsappDialog=$('#whatsapp-contact'),whatsappNumber=String(config.whatsapp||'').replace(/[^0-9]/g,'');
 whatsapp?.addEventListener('click',()=>whatsappDialog?.showModal());
 whatsappDialog?.addEventListener('close',()=>whatsapp?.focus({preventScroll:true}));
-if(/^[1-9]\d{7,14}$/.test(whatsappNumber)){
+all('[data-whatsapp-open]').forEach(open=>{
+ const number=open.dataset.whatsappOpen;
  const product=$('.product-summary h1')?.textContent.trim();
  const message=ar?('السلام عليكم BIOJOUD، أرغب في معلومات'+(product?' حول '+product:' عن منتجاتكم الفلاحية')+'.'):('Bonjour BIOJOUD, je souhaite des informations '+(product?'sur '+product:'sur vos solutions agricoles')+'.');
- const open=$('#whatsapp-open');if(open)open.href='https://api.whatsapp.com/send?phone='+whatsappNumber+'&text='+encodeURIComponent(message);
-}
-$('[data-copy-whatsapp]')?.addEventListener('click',async e=>{const button=e.currentTarget;try{await navigator.clipboard.writeText('+'+whatsappNumber);button.textContent=ar?'تم نسخ الرقم':'Numéro copié';$('#whatsapp-status').textContent=ar?'تم نسخ الرقم':'Numéro copié';}catch{button.textContent='+212 775 809 540';}});
+ open.href='https://wa.me/'+number+'?text='+encodeURIComponent(message);
+});
+all('[data-copy-whatsapp]').forEach(button=>button.addEventListener('click',async()=>{const number='+'+button.dataset.copyWhatsapp;try{await navigator.clipboard.writeText(number);button.textContent=ar?'تم نسخ الرقم':'Numéro copié';$('#whatsapp-status').textContent=ar?'تم نسخ الرقم':'Numéro copié';}catch{button.textContent=number;}}));
 const headerLinks=all('.header-quick a');
 const observedSections=headerLinks.map(a=>document.getElementById(new URL(a.href,location.href).hash.slice(1))).filter(Boolean);
 if('IntersectionObserver' in window&&observedSections.length){
