@@ -1,0 +1,64 @@
+.drone-rental {
+  margin-block-end: clamp(44px, 6vw, 92px);
+}
+.drone-rental-panel {
+  display: grid;
+  grid-template-columns: minmax(0, 1.18fr) minmax(0, .82fr);
+  align-items: stretch;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--paper);
+}
+.drone-rental-copy {
+  padding: clamp(28px, 4.6vw, 68px);
+  border-inline-start: 4px solid var(--yellow);
+  background: var(--deep);
+  color: #fff;
+}
+.drone-rental-copy .eyebrow {
+  margin-block-end: 14px;
+  color: var(--lime);
+}
+.drone-rental-copy h2 {
+  max-inline-size: 17ch;
+  font-size: clamp(2rem, 4.2vw, 3.5rem);
+  overflow-wrap: anywhere;
+}
+.drone-rental-description {
+  max-inline-size: 46ch;
+  margin-block: 16px 26px;
+  color: #e4eee2;
+}
+.drone-rental-contact {
+  gap: 10px;
+  justify-content: center;
+}
+.drone-rental-brand {
+  display: grid;
+  place-items: center;
+  min-inline-size: 0;
+  min-block-size: 210px;
+  padding: clamp(26px, 4.2vw, 60px);
+  background: #fff;
+}
+.drone-rental-brand img {
+  inline-size: min(100%, 330px);
+  block-size: auto;
+}
+@media (max-width: 740px) {
+  .drone-rental-panel {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .drone-rental-copy {
+    border-inline-start: 0;
+    border-block-start: 4px solid var(--yellow);
+  }
+  .drone-rental-brand {
+    min-block-size: 0;
+    padding: 22px 28px;
+  }
+  .drone-rental-brand img {
+    inline-size: min(100%, 230px);
+  }
+}
