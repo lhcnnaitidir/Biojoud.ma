@@ -55,15 +55,38 @@
 }
 .drone-rental-brand {
   display: grid;
-  place-items: center;
+  align-content: center;
+  justify-items: center;
+  gap: 14px;
   min-inline-size: 0;
   min-block-size: 210px;
-  padding: clamp(26px, 4.2vw, 60px);
+  padding: clamp(20px, 3.2vw, 44px);
   background: #fff;
 }
 .drone-rental-brand img {
-  inline-size: min(100%, 330px);
+  inline-size: min(100%, 158px);
   block-size: auto;
+}
+.drone-rental-video {
+  inline-size: min(100%, 520px);
+  text-align: center;
+}
+.drone-rental-video iframe {
+  display: block;
+  inline-size: 100%;
+  block-size: auto;
+  aspect-ratio: 16 / 9;
+  border: 0;
+  border-radius: 6px;
+  background: var(--deep);
+}
+.drone-rental-video a {
+  display: inline-block;
+  margin-block-start: 9px;
+  color: var(--ink);
+  font-size: .875rem;
+  text-decoration: underline;
+  text-underline-offset: .16em;
 }
 @media (max-width: 740px) {
   .drone-rental-panel {
@@ -78,6 +101,6 @@
     padding: 22px 28px;
   }
   .drone-rental-brand img {
-    inline-size: min(100%, 230px);
+    inline-size: min(100%, 135px);
   }
 }
