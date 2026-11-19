@@ -1,5 +1,5 @@
 .drone-rental {
-  margin-block-start: clamp(36px, 6vw, 88px);
+  margin-block: clamp(36px, 6vw, 88px);
 }
 .drone-rental-panel {
   display: grid;
@@ -115,6 +115,9 @@
   .drone-rental-copy {
     border-inline-start: 0;
     border-block-start: 4px solid var(--yellow);
+  }
+  .drone-rental-contact {
+    inline-size: 100%;
   }
   .drone-rental-brand {
     min-block-size: 0;

@@ -8,7 +8,6 @@ function applyMotionPreference() {
 }
 
 function updateButton() {
-  if (!droneVideo.paused) motionButton.hidden = false;
   motionButton.setAttribute('aria-label', droneVideo.paused ? motionButton.dataset.resume : motionButton.dataset.pause);
   motionButton.querySelector('[data-icon="pause"]').toggleAttribute('hidden', droneVideo.paused);
   motionButton.querySelector('[data-icon="resume"]').toggleAttribute('hidden', !droneVideo.paused);
@@ -16,6 +15,7 @@ function updateButton() {
 
 applyMotionPreference();
 updateButton();
+motionButton.hidden = false;
 reducedMotion.addEventListener('change', applyMotionPreference);
 droneVideo.addEventListener('playing', updateButton);
 droneVideo.addEventListener('pause', updateButton);
