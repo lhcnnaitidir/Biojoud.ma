@@ -90,7 +90,7 @@ def drone_rental(lang):
    <figure class="drone-rental-video">
     <div class="drone-rental-media">
      <video width="624" height="390" autoplay muted loop playsinline preload="none" poster="assets/dji-agras-t100-poster.webp" aria-label="{T('DJI Agras T100 en action dans les champs','درون DJI Agras T100 أثناء العمل في الحقول')}">
-      <source src="assets/dji-agras-t100-field.mp4" type="video/mp4">
+      <source src="assets/dji-agras-t100-field.mp4?v=41366f" type="video/mp4">
      </video>
      <button class="drone-rental-motion" type="button" hidden data-pause="{T('Mettre la vidéo en pause','إيقاف الفيديو مؤقتاً')}" data-resume="{T('Reprendre la vidéo','استئناف الفيديو')}">
       <svg data-icon="pause" viewBox="0 0 20 20" width="18" height="18" aria-hidden="true" fill="currentColor"><path d="M6 4h2.5v12H6zm5.5 0H14v12h-2.5z"/></svg>
