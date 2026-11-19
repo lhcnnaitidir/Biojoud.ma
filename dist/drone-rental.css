@@ -1,5 +1,5 @@
 .drone-rental {
-  margin-block-end: clamp(44px, 6vw, 92px);
+  margin-block-start: clamp(36px, 6vw, 88px);
 }
 .drone-rental-panel {
   display: grid;
@@ -24,6 +24,25 @@
   max-inline-size: 17ch;
   font-size: clamp(2rem, 4.2vw, 3.5rem);
   overflow-wrap: anywhere;
+}
+.drone-rental-model {
+  margin-block-start: 10px;
+  color: #e4eee2;
+  font-size: clamp(1.125rem, 2vw, 1.55rem);
+  font-weight: 600;
+}
+.drone-rental-capacity {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: 12px;
+  margin-block-start: 15px;
+  color: #e4eee2;
+}
+.drone-rental-capacity strong {
+  color: var(--yellow);
+  font-size: clamp(1.65rem, 3.3vw, 2.8rem);
+  line-height: 1.1;
 }
 .drone-rental-description {
   max-inline-size: 46ch;
